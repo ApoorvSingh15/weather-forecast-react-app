@@ -7,8 +7,8 @@ module.exports = {
     publicPath: '/',
     filename: 'bundle.js'
   },
-    'scripts' : {
-      'start' : 'node server.js', 
+    scripts : {
+      start : 'node server.js', 
   } ,
   module: {
     loaders: [{
